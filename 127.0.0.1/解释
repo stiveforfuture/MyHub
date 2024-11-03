@@ -1,0 +1,6 @@
+在使用该代码之前需要更改config。properties中的配置信息
+user = 
+password = 
+
+其中user为mysql的账号
+password为mysql数据库自己设定的密码
